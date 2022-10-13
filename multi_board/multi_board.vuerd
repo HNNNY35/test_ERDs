@@ -419,9 +419,9 @@
         ],
         "ui": {
           "active": false,
-          "left": 665,
-          "top": 448,
-          "zIndex": 3,
+          "left": 636,
+          "top": 442,
+          "zIndex": 8,
           "widthName": 82.8564453125,
           "widthComment": 84.5703125
         },
@@ -712,8 +712,8 @@
           "columnIds": [
             "92dcd191-352f-4e31-98fb-26e807315753"
           ],
-          "x": 665,
-          "y": 503,
+          "x": 636,
+          "y": 497,
           "direction": "left"
         },
         "constraintName": "fk_post_list_to_post_editor",
@@ -790,8 +790,8 @@
           "columnIds": [
             "b8cf1fa3-43f6-4044-b58d-652f1f6c9fcf"
           ],
-          "x": 1088.16748046875,
-          "y": 503,
+          "x": 1059.16748046875,
+          "y": 497,
           "direction": "right"
         },
         "constraintName": "fk_member_list_to_post_editor",
