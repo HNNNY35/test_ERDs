@@ -3,7 +3,7 @@
     "version": "2.2.11",
     "width": 2000,
     "height": 2000,
-    "scrollTop": 0,
+    "scrollTop": -1,
     "scrollLeft": 0,
     "zoomLevel": 1,
     "show": {
@@ -93,8 +93,8 @@
             "id": "614dc81d-ed0f-467c-b517-27533cf738fb"
           },
           {
-            "name": "UNIQUE_ID_PARENT",
-            "comment": "상위 대표값",
+            "name": "UNIQUE_ID_CHILD",
+            "comment": "하위 대표값",
             "dataType": "VARCHAR(200)",
             "default": "",
             "option": {
@@ -108,7 +108,7 @@
               "pk": false,
               "fk": true,
               "pfk": false,
-              "widthName": 120.83447265625,
+              "widthName": 111.154296875,
               "widthComment": 71.5703125,
               "widthDataType": 89.29296875,
               "widthDefault": 60
@@ -120,7 +120,7 @@
           "active": false,
           "left": 114,
           "top": 159,
-          "zIndex": 45,
+          "zIndex": 54,
           "widthName": 84.671875,
           "widthComment": 60
         },
@@ -144,7 +144,7 @@
           "columnIds": [
             "2d7b057e-f7d6-4494-b571-8912c2a0d963"
           ],
-          "x": 542.69775390625,
+          "x": 533.017578125,
           "y": 159,
           "direction": "top"
         },
@@ -153,7 +153,7 @@
           "columnIds": [
             "a9aa2d15-fabb-4b4b-aed0-1f544d23b8ea"
           ],
-          "x": 562.69775390625,
+          "x": 553.017578125,
           "y": 179,
           "direction": "right"
         },
